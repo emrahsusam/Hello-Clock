@@ -19,3 +19,7 @@ In this project, you'll learn:
 5. Create digital clock function.
 6. Use ternary function for double writing character.
 7. Show digital clock on your page with using DOM.
+
+### View Project
+
+[Live Demo](https://emrahsusam.github.io/Hello-Clock/) of this project for review.
