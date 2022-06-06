@@ -11,7 +11,7 @@ In this project, you'll learn:
 
 
 ### Project Requirements
-
+---
 1. Create promp question
 2. Give 'id' your elements for all DOM functions.
 3. Manipulate prompt answer for writing your Hello Paragraph 
@@ -21,5 +21,5 @@ In this project, you'll learn:
 7. Show digital clock on your page with using DOM.
 
 ### View Project
-
+---
 [Live Demo](https://emrahsusam.github.io/Hello-Clock/) of this project for review.
