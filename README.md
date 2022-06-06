@@ -7,6 +7,8 @@ In this project, you'll learn:
 - Using DOM
 - Using Ternary Operator
 
+![preview-hello-clock](https://github.com/emrahsusam/Hello-Clock/blob/16400972c3526b092758fc31c7da21e787a70e18/Kodluyoruz%20Javascript%20Saat%20%C3%96devi.gif)
+
 
 ### Project Requirements
 
