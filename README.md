@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HELLO CLOCK | [Kodluyoruz.org](https://www.kodluyoruz.org/)
 
 ## Hello Clock Project - Frontend Bootcamp Homework
@@ -44,4 +43,4 @@ In this project, you'll learn:
 ### View Project
 ---
 [Live Demo](https://emrahsusam.github.io/Hello-Clock/) of this project for review.
->>>>>>> 8ed2f5afa81eb911a91323ecb8f98a5e95b3d449
+
